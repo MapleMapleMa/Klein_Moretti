@@ -1,0 +1,31 @@
+{
+    "item": {
+        "name": "章鱼克喵喵",
+        "description": "赞美愚者！灵感来自《诡秘之主》的主角克莱恩·莫雷蒂(Klein Moretti)",
+        "preview": [
+            "preview.png"
+        ],
+        "icon": "icon.png",
+        "source_url": "https://github.com/MapleMapleMa/Klein_Moretti",
+        "author": [
+            {
+                "name": "MapleMapleMa",
+                "author_url": "https://github.com/MapleMapleMa"
+            }
+        ]
+    },
+    "downloads": {
+        "o66": {
+            "version": "1.0",
+            "file_name": "o66.bin"
+        },
+        "o66nfc": {
+            "version": "1.0",
+            "file_name": "o66.bin"
+        },
+        "n66": {
+            "version": "1.0",
+            "file_name": "n66.bin"
+        }
+    }
+}
